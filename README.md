@@ -1,4 +1,4 @@
-This is a project from theodinproject.com curiculum that demonstrats html and git basics.
+This is a project from theodinproject.com's curiculum that demonstrates html and git basics.
 
 Html so far is pretty straight forward. It's fun building things.
 
